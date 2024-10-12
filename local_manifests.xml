@@ -19,7 +19,7 @@
 
   <!-- Trees -->
   <project path="device/xiaomi/topaz-kernel" name="openscine/device_xiaomi_topaz-kernel" remote="github" revision="14.0" />
-  <project path="device/xiaomi/topaz" name="openscine/device_xiaomi_topaz" remote="github" revision="14.0" />
+  <project path="device/xiaomi/topaz" name="m4nst3in/device_xiaomi_topaz" remote="github" revision="14.0" />
   <project path="vendor/xiaomi/topaz" name="openscine/vendor_xiaomi_topaz" remote="github" revision="14.0" />
 
   <!-- Dependencies -->
